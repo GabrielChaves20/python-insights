@@ -12,8 +12,7 @@ A empresa observou que uma grande parte de sua base de clientes já cancelou o s
 
 * [Dados de Cancelamento](https://drive.google.com/drive/folders/1fRHCEY0liArTvsUogBiewE-8CdvLx1zV?usp=drive_link) – Link para a base de dados com informações dos clientes.
 * `insights.ipynb` – Código Python com a análise exploratória e limpeza dos dados.
-* Visualizações interativas com Plotly para compreensão dos fatores de cancelamento.
-
+* `graficos` - Pasta com os gráficos gerados pelo Plotly
 **Importante ressaltar que a base foi simplificada para subir o projeto ao github, mas na pasta do drive você pode encontrar a base completa**
 
 ---
